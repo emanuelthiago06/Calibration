@@ -9,3 +9,5 @@ def get_desv_med(data):
     desv_med = desv/(sqrt(len(data)))
     return desv_med,med
 
+# done
+
